@@ -1,0 +1,18 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/Evensee/front.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/Evensee/api-gateway.git
+[submodule "activity-service"]
+	path = activity-service
+	url = https://github.com/Evensee/activity-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/Evensee/user-service.git
+[submodule "protobuf-definitions"]
+	path = protobuf-definitions
+	url = https://github.com/Evensee/protobuf-definitions.git
+[submodule "go-tl"]
+	path = go-tl
+	url = https://github.com/Evensee/go-tl.git
